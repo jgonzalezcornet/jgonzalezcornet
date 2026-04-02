@@ -30,7 +30,7 @@ Simulates focus groups using LLM-based agents to validate product and marketing 
 - Backend system to manage sessions, state and interactions  
 - Generates actionable insights (reports, consensus/tension analysis, transcripts)  
 
-**HackITBA 2026 — 1st place overall**
+**HackITBA 2026 — 1st place overall (among 200 participants)**
 
 ---
 

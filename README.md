@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey there! I'm Josefina 👋🏻
 
-<!--
-**jgonzalezcornet/jgonzalezcornet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-native products with a focus on multi-agent systems and real-world decision making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I’m a 4th year Software Engineering student at ITBA focused on building systems end-to-end — from problem definition to production-ready solutions.
+My work combines AI with solid backend and system design to turn complex processes into fast, usable products.
+
+---
+
+## What I’m building
+
+- AI systems with autonomous agents (memory, interaction, orchestration)
+- Backend systems and APIs to support real-world usage
+- Tools that compress decision cycles (weeks → hours)
+- End-to-end products built and shipped quickly
+
+---
+
+## Latest project
+
+### Focus — AI Synthetic Focus Groups  
+Simulates focus groups using LLM-based agents to validate product and marketing decisions.
+
+- Multi-agent orchestration system with memory and interaction  
+- Synthetic personas modeled from structured data and sociological principles  
+- Backend system to manage sessions, state and interactions  
+- Generates actionable insights (reports, consensus/tension analysis, transcripts)  
+
+**HackITBA 2026 — 1st place overall**
+
+---
+
+## Interests
+
+- Applied AI in real-world problems  
+- Product building and rapid iteration  
+- Developer tools  
+
+---
+
+## Tech
+
+JavaScript • Python • Java • React • Next.js • Node.js • Spring • Docker  
+SQL / NoSQL • APIs • System design  
+LLMs • Multi-agent systems • Prompt engineering
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/josefina-gonzalez-cornet-765b9a271 
+- X: https://x.com/jsefinagnzalez 
+- Email: josefina.gonzalezcornet@gmail.com

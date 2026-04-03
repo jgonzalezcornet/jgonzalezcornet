@@ -42,11 +42,23 @@ Simulates focus groups using LLM-based agents to validate product and marketing 
 
 ---
 
-## Tech
+## Tech stack
 
-JavaScript • Python • Java • React • Next.js • Node.js • Spring • Docker  
-SQL / NoSQL • APIs • System design  
-LLMs • Multi-agent systems • Prompt engineering
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
+![Spring](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
+
+LLMs • Multi-agent systems • Prompt engineering • APIs • System design
 
 ---
 

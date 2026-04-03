@@ -52,6 +52,6 @@ LLMs • Multi-agent systems • Prompt engineering
 
 ## 📩 Contact me
 
-- LinkedIn: https://linkedin.com/in/josefina-gonzalez-cornet-765b9a271 
-- X: https://x.com/jsefinagnzalez 
-- Email: josefina.gonzalezcornet@gmail.com
+- [LinkedIn](https://linkedin.com/in/josefina-gonzalez-cornet-765b9a271)
+- [X](https://x.com/jsefinagnzalez) 
+- josefina.gonzalezcornet@gmail.com

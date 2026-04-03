@@ -1,6 +1,6 @@
 # Hey there! I'm Josefina 👋🏻
 
-Building AI-native products with a focus on multi-agent systems and real-world decision making.
+Building AI-native products with a focus on multi-agent systems and real-world decision making 🤖
 
 ---
 
